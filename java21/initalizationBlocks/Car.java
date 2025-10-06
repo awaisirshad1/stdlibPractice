@@ -1,4 +1,4 @@
-package initalizationBlocks;
+package java21.initalizationBlocks;
 
 public class Car {
     int wheels;

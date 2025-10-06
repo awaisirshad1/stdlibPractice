@@ -1,4 +1,4 @@
-package initalizationBlocks;
+package java21.initalizationBlocks;
 
 public class InitBlocks {
     public static void main(String[] args) {
